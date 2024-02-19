@@ -35,4 +35,5 @@
 - 사건 다발 장소, 사건 다발 종류를 한 눈에 볼 수 있게 구현
 
 </br>
-![image](https://github.com/ha-jae-min/construction-safety/assets/98006326/2f5f2d33-30d1-4a09-9d61-6bc393a03bf0)
+
+![image](https://github.com/ha-jae-min/construction-safety/assets/98006326/d29a06d7-86c7-4285-b3c3-05314621ffc6)
